@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @danalesage
 - 👀 I’m interested in video games, movies, and sports
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on TBA
 - 📫 How to reach me dana.lesage@gmail.com 
 
 <!---
