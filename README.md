@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @danalesage
 - 👀 I’m interested in video games, movies, and sports
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Front-End Development
 - 📫 How to reach me dana.lesage@gmail.com 
 
 <!---
